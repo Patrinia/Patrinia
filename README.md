@@ -20,6 +20,6 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 영남대 기계IT대학</li>컴퓨터공학과 3학년 재학</li>이종헌 </div> 
-    </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 영남대 기계IT대학</li><br>컴퓨터공학과 3학년 재학</li><br>이종헌 </div> 
+</div>
     
